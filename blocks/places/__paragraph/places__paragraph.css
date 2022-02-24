@@ -1,0 +1,10 @@
+.places__paragraph {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    font-size: 18px;
+    line-height: 163%;
+    max-width: 440px;
+    max-height: 232px;
+}

@@ -1,0 +1,7 @@
+.cover {
+    position: relative;
+    margin-top: 92px;
+    box-sizing: border-box;
+    background: center / contain no-repeat url(../../images/cover-trains.jpg);
+    border: solid 1px black;
+}

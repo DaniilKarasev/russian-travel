@@ -1,0 +1,11 @@
+.cover__title {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    max-height: 152px;
+    max-width: 560px;
+    font-size: 72px;
+    line-height: 76px;
+    z-index: 1;
+}

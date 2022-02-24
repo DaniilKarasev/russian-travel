@@ -1,0 +1,10 @@
+.footer__two-row {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    padding-inline-start: 0;
+    min-width: 928px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,5 +1,5 @@
 .header {
-    min-height: 52px;
+    max-height: 52px;
     max-width: 928px;
     box-sizing: border-box;
     display: flex;

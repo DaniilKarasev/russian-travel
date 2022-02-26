@@ -1,6 +1,13 @@
 .places {
     display: flex;
+    box-sizing: border-box;
     flex-direction: column;
     gap: 80px;
-    min-width: 928px;
+    max-width: 928px;
+    margin: 0 auto;
+    
+}
+
+.place__img-container {
+    max-width: 440px;
 }

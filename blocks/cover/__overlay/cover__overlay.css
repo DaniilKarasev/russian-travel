@@ -2,8 +2,8 @@
     position: absolute;
     top: 0;
     left: 0;
-    height: 640px;
-    width: 1024px;
+    height: 100%;
+    width: 100%;
     background-color: #2A2C2F;
     opacity: 0.3;
 }

@@ -1,4 +1,5 @@
 .lang-fieldset__lang-button {
+    position: relative;
     max-height: 28px;
     max-width: 30px;
     font-size: 24px;

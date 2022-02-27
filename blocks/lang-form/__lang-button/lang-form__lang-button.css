@@ -1,4 +1,4 @@
-.lang-fieldset__lang-button {
+.lang-form__lang-button {
     position: relative;
     max-height: 28px;
     max-width: 30px;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 425px) {
-    .lang-fieldset__lang-button {
+    .lang-form__lang-button {
         font-size: 18px;
     }
 }

@@ -5,12 +5,12 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__container/header__container.css);
 @import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/lang-fieldset/lang-fieldset.css);
-@import url(../blocks/lang-fieldset/__lang-button/lang-field__lang-button.css);
-@import url(../blocks/lang-fieldset/__lang-button-hide/lang-fieldset__lang-button-hide.css);
-@import url(../blocks/lang-fieldset/__lang-button-item/lang-fieldset__lang-button-item.css);
-@import url(../blocks/lang-fieldset/__lang-button-item/_select_Ru/lang-fieldset__lang-button_select_Ru.css);
-@import url(../blocks/lang-fieldset/__lang-button-item/_select_En/lang-fieldset__lang-button_select_En.css);
+@import url(../blocks/lang-form/lang-form.css);
+@import url(../blocks/lang-form/__lang-button/lang-form__lang-button.css);
+@import url(../blocks/lang-form/__lang-button-hide/lang-form__lang-button-hide.css);
+@import url(../blocks/lang-form/__lang-button-item/lang-form__lang-button-item.css);
+@import url(../blocks/lang-form/__lang-button-item/_select_Ru/lang-form__lang-button_select_Ru.css);
+@import url(../blocks/lang-form/__lang-button-item/_select_En/lang-form__lang-button_select_En.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
@@ -21,7 +21,7 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-item/intro__list-item.css);
-@import url(../blocks/intro/__list-item/__list-item_bold/intro__list-item_bold.css);
+@import url(../blocks/intro/__bold/intro__bold.css);
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__img/photo-grid__img.css);
 @import url(../blocks/places/places.css);

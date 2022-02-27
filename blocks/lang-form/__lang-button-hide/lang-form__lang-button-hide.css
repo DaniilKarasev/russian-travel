@@ -1,4 +1,4 @@
-.lang-fieldset__lang-button-hide {
+.lang-form__lang-button-hide {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -6,6 +6,6 @@
     clip: rect(0 0 0 0);
 }
 
-.lang-fieldset__lang-button-hide:checked + .lang-fieldset__lang-button-item {
+.lang-form__lang-button-hide:checked + .lang-form__lang-button-item {
     border-bottom: 1px solid white;
 }

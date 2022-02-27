@@ -4,29 +4,36 @@
     flex-direction: column;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (min-width: 1280px) {
     .lead {
         max-width: 984px;
         margin: 56px 148px 0;
-    }
-    
+    }  
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
     .lead {
         max-width: 928px;
-        margin-top: 48px 48px 0;
+        margin: 48px 48px 0;
     }
 }
 
-@media screen and (max-width: 768px) {
-    .lead{
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .lead {
         max-width: 768px;
         margin: 48px 0 0;
     }
 }
-@media screen and (max-width: 320px) {
-    .lead{
+
+@media screen and (min-width: 426px) and (max-width: 767px) {
+    .lead {
+        max-width: 600px;
+        margin: 48px 0 0;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .lead {
         max-width: 320px;
         margin: 48px 0 0;
     }

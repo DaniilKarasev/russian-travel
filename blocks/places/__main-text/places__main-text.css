@@ -3,3 +3,35 @@
     flex-direction: column;
     gap: 27px;
 }
+
+@media screen and (max-width: 1280px) {
+    .places__main-text {
+        gap: 26px;
+    }
+    
+}
+
+@media screen and (max-width: 1024px) {
+    .places__main-text {
+        gap: 27px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .places__main-text {
+        gap: 25px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .places__main-text {
+        gap: 25px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .places__main-text {
+        gap: 25px;
+        margin: 0 16px;
+    }
+}

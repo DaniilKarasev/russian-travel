@@ -9,3 +9,9 @@
     gap: 32px;
     text-align: center;
 }
+
+@media screen and (max-width: 320px) {
+    .cover__text-container {
+        gap: 16px;
+    }
+}

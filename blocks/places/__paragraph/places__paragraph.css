@@ -5,6 +5,25 @@
     margin-inline-end: 0;
     font-size: 18px;
     line-height: 163%;
-    max-width: 440px;
-    max-height: 232px;
+}
+
+
+@media screen and (max-width: 1280px) {
+    .places__paragraph {
+        max-width: 484px;
+    }
+    
+}
+
+@media screen and (max-width: 1024px) {
+    .places__paragraph {
+        max-width: 456px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .places__paragraph {
+        max-width: 352px;
+        font-size: 16px;
+    }
 }

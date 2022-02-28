@@ -15,13 +15,7 @@
     }
 }
 
-@media screen and (min-width: 426px) and (max-width: 767px) {
-    .lead__caption {
-        margin-left: 16px;
-    }
-}
-
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .lead__caption {
         margin-left: 16px;
     }

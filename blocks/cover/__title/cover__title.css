@@ -9,16 +9,7 @@
     line-height: 76px;
 }
 
-@media screen and (min-width: 426px) and (max-width: 767px) {
-    .cover__title {
-        margin: 0 auto;
-        max-width: 250px;
-        font-size: 32px;
-        line-height: 35px;
-    }
-}
-
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .cover__title {
         margin: 0 auto;
         max-width: 250px;

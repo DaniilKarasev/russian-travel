@@ -2,6 +2,7 @@
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
+    margin: 48px 0 0;
 }
 
 @media screen and (min-width: 1280px) {
@@ -21,20 +22,17 @@
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .lead {
         max-width: 768px;
-        margin: 48px 0 0;
     }
 }
 
 @media screen and (min-width: 426px) and (max-width: 767px) {
     .lead {
         max-width: 600px;
-        margin: 48px 0 0;
     }
 }
 
 @media screen and (max-width: 425px) {
     .lead {
         max-width: 320px;
-        margin: 48px 0 0;
     }
 }

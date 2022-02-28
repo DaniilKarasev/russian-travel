@@ -5,7 +5,3 @@
     overflow: hidden;
     clip: rect(0 0 0 0);
 }
-
-.lang-form__lang-button-hide:checked + .lang-form__lang-button-item {
-    border-bottom: 1px solid white;
-}

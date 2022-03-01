@@ -3,8 +3,8 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__link/page__link.css);
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__container/header__container.css);
 @import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/content/content.css);
 @import url(../blocks/lang-form/lang-form.css);
 @import url(../blocks/lang-form/__lang-button/lang-form__lang-button.css);
 @import url(../blocks/lang-form/__lang-button-hide/lang-form__lang-button-hide.css);
